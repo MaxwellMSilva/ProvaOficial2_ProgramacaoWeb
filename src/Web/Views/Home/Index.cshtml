@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Web.Models.VeiculoViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Veículos</h1>
+
+<p>
+    <a asp-action="Criar" class="btn btn-primary">Criar Novo</a>
+</p>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                Marca
+            </th>
+            <th>
+                Modelo
+            </th>
+            <th>
+                Ano
+            </th>
+            <th>
+                Quilometragem
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Veiculo_Marca)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Veiculo_Modelo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Veiculo_Ano)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Veiculo_Quilometragem)
+                </td>
+                <td>
+                    <div class="btn-group">
+                        @Html.ActionLink("Alterar", "Alterar", new { id = item.Id }, new {@class= "btn btn-outline-info" })
+                        @Html.ActionLink("Detalhar", "Detalhar", new { id = item.Id }, new { @class = "btn btn-outline-info" })
+                        @Html.ActionLink("Excluir", "Excluir", new { id = item.Id }, new { @class = "btn btn-outline-danger", @onClick = "javascript:return" + " confirm('Confirma a Exclusão?')" })
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

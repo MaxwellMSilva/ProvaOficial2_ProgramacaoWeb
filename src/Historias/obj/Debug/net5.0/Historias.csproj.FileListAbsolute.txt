@@ -1,0 +1,17 @@
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\obj\Debug\net5.0\Historias.csprojAssemblyReference.cache
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\obj\Debug\net5.0\Historias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\obj\Debug\net5.0\Historias.AssemblyInfoInputs.cache
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\obj\Debug\net5.0\Historias.AssemblyInfo.cs
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\obj\Debug\net5.0\Historias.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\bin\Debug\net5.0\Historias.deps.json
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\bin\Debug\net5.0\Historias.dll
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\bin\Debug\net5.0\ref\Historias.dll
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\bin\Debug\net5.0\Historias.pdb
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\bin\Debug\net5.0\Dominio.dll
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\bin\Debug\net5.0\Infra.dll
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\bin\Debug\net5.0\Infra.pdb
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\bin\Debug\net5.0\Dominio.pdb
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\obj\Debug\net5.0\Historias.csproj.CopyComplete
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\obj\Debug\net5.0\Historias.dll
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\obj\Debug\net5.0\ref\Historias.dll
+C:\Users\maxwe\Documents\aulas\prova_web\src\Historias\obj\Debug\net5.0\Historias.pdb
